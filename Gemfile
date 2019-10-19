@@ -46,7 +46,7 @@ group :development do
   gem 'rspec-rails'
   gem 'mongoid-rspec'
   gem 'capybara'
-  gem 'factory_girl_rails'
+  gem 'factory_bot_rails'
   gem 'database_cleaner'
   gem 'jasmine'
 end
